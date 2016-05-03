@@ -1,0 +1,17 @@
+/Users/kaiyao/Desktop/Bobhat/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/kaiyao/Desktop/Bobhat/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/kaiyao/Desktop/Bobhat/obj/Debug/Assembly-CSharp.dll
+/Users/kaiyao/Desktop/Bobhat/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/kaiyao/Desktop/Bobhat/Temp/bin/Debug/UnityEngine.dll
+/Users/kaiyao/Desktop/Bobhat/Temp/bin/Debug/UnityEditor.dll
+/Users/kaiyao/Desktop/Bobhat/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/kaiyao/Desktop/Bobhat/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/kaiyao/Desktop/Bobhat/Temp/bin/Debug/Mono.Cecil.dll
+/Users/kaiyao/Desktop/Bobhat/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/kaiyao/Desktop/Bobhat/Temp/bin/Debug/Unity.DataContract.dll
+/Users/kaiyao/Desktop/Bobhat/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/kaiyao/Desktop/Bobhat/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/kaiyao/Desktop/Bobhat/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/kaiyao/Desktop/Bobhat/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/kaiyao/Desktop/Bobhat/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/kaiyao/Desktop/Bobhat/Temp/bin/Debug/Mono.Cecil.Mdb.dll
